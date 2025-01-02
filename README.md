@@ -17,7 +17,7 @@ I actively contribute to open-source security projects and collaborate with othe
 
 ## Contact Me
 
-- LinkedIn: [Remon](link_to_linkedin_profile)
+- LinkedIn: [Remon](www.linkedin.com/in/remon-nagy-sobhy)
 - Email: remon.nagy.sobhy@gmail.com
 
 ## License

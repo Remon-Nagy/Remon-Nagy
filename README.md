@@ -1,25 +1,18 @@
-# Remon - Penetration Tester
+# 💫 About Me:
+👋 About Me<br><br>Hi, I’m Remon Nagy Sobhy — a Cybersecurity Specialist, Penetration Tester, and Security Engineer with hands-on experience in securing web applications, conducting offensive security assessments, and building security-focused solutions.<br><br>I hold CEH and CPENT certifications and have worked across multiple areas including red teaming, API security testing, malware analysis, and secure software development.<br>My work also includes helping organizations and individuals harden their infrastructure, improve their security posture, and resolve critical vulnerabilities.<br><br>🔐 What I Do<br><br>Web Application Penetration Testing<br><br>API Security Testing (Specialized with Burp Suite)<br><br>Malware Analysis & Reverse Engineering<br><br>Security Audits & Vulnerability Assessments<br><br>Building and Securing Laravel-based Applications<br><br>Teaching and mentoring students in cybersecurity<br><br>🛠 Tech & Tools<br><br>Pentesting tools: Burp Suite, Nmap, Metasploit, SQLMap, Wireshark<br><br>Languages: PHP (Laravel), Python, Bash<br><br>Platforms: Windows (IIS), Linux, XAMPP<br><br>Specialties: JWT authentication, Spatie Roles & Permissions, Secure coding<br><br>📚 Current Projects<br><br>Building an advanced Malware Analysis Course (46 hours, 10 modules)<br><br>Publishing SQL Injection payloads & guides<br><br>Developing a modular Laravel ticketing system with JWT API auth<br><br>🎯 Mission<br><br>I aim to help people and companies build more secure systems, understand cybersecurity from the ground up, and apply real-world security practices effectively.
 
-Welcome to my GitHub profile! I'm Remon, a penetration tester with expertise in cybersecurity and ethical hacking. This repository contains tools, scripts, and projects related to my work as a penetration tester.
 
-## About Me
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/remon-nagy-sobhy) 
 
-I'm a passionate cybersecurity professional with extensive experience in conducting penetration tests, vulnerability assessments, and security audits for various organizations. My expertise includes:
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Remon-Nagy&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Remon-Nagy&theme=rose_pine&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Remon-Nagy&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- Identifying security vulnerabilities in web applications, networks, and systems.
-- Performing exploitation and privilege escalation techniques to assess the impact of vulnerabilities.
-- Providing detailed reports with remediation recommendations to improve security posture.
-- Constantly staying updated with the latest security trends, techniques, and tools.
+---
+[![](https://visitcount.itsvg.in/api?id=Remon-Nagy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Contributions
-
-I actively contribute to open-source security projects and collaborate with other cybersecurity professionals to improve the security community. If you're interested in collaborating or have any questions about my projects, feel free to reach out!
-
-## Contact Me
-
-- LinkedIn: www.linkedin.com/in/remon-nagy-sobhy
-- Email: remon.nagy.sobhy@gmail.com
-
-## License
-
-All projects and contributions are provided under the [MIT License](link_to_license).
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
